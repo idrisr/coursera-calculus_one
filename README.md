@@ -7,4 +7,4 @@ To recreate the notebook in your environment:
 
 1. `git clone git@github.com:idrisr/coursera-calculus_one.git`
 2. `pip install -r requirements.txt`
-3. `ipython notebook Calculus.ipynb`
+3. `ipython notebook Calculus[0-9].ipynb`
